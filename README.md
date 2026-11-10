@@ -23,7 +23,7 @@ Our goal is not just to reproduce a vintage front panel: we want to explore **MS
 
 ## The inspiration: KORG MS-20iC
 
-![KORG MS-20iC controller — reference photograph](https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/k/korglegheader-IY0l2iRe61q5FBn73q1AcE7r1xKXsuK5.jpg)
+![MS-20iC](images/RTAL_KORG_MS-20iC.png)
 
 *Reference photograph: KORG MS-20iC USB controller, originally created for the KORG Legacy Collection. Image: Sound On Sound (external link; copyright remains with its owner).*
 
@@ -31,7 +31,7 @@ The **MS-20iC** is a dedicated USB-MIDI controller with a keyboard, knobs and a 
 
 ## Our hardware platform
 
-![LILYGO T-Display-S3 with MIDI expansion board](https://lilygo.cc/cdn/shop/files/T-display-s3-midi-LILYGO_1.jpg?v=1774661646&width=1346)
+![T-Dosplay-S3](images/RTAL_T-Display-S3_Midi_Board.png)
 
 *LILYGO T-Display-S3 and MIDI expansion hardware. Image: LILYGO (external product photograph).*
 
