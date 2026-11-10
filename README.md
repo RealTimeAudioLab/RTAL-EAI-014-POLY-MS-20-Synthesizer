@@ -1,5 +1,3 @@
-<div align="center">
-
 # RTAL POLY MS-20
 ### Bringing an Analog Legend into the Digital World
 
