@@ -33,7 +33,7 @@ The **MS-20iC** is a dedicated USB-MIDI controller with a keyboard, knobs and a 
 
 ![T-Dosplay-S3](images/RTAL_T-Display-S3_Midi_Board.png)
 
-*LILYGO T-Display-S3 and MIDI expansion hardware. Image: LILYGO (external product photograph).*
+*LILYGO T-Display-S3 and MIDI expansion hardware.*
 
 - **ESP32-S3** microcontroller with dual-core processing
 - **T-Display-S3** color display for live status and synth UI
